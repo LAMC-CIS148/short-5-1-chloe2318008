@@ -8,6 +8,10 @@ body {
 header h1{ 
 	color: steelblue;
 }
+/* the styles for the main */
+main img{
+	float: left;
+}	
 /* the styles for the footer */
 footer p {
 	text-align: center;
