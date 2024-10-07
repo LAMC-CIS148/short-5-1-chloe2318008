@@ -25,6 +25,7 @@ header h1 {
 /* the styles for the main */
 main img {
 	float: left;
+	border: 0;
 }
 /* the styles for the footer */
 footer p {
