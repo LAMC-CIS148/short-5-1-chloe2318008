@@ -1,6 +1,8 @@
 /* the styles for the elements */
-body {
+html {
 	background-color: yellow;
+}
+body {
 	font-family: Arial, Helvetica, sans-serif;
 	width: 650px;
 	text-align: left;
