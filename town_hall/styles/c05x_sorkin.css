@@ -28,5 +28,6 @@ main img {
 }
 /* the styles for the footer */
 footer p {
+	font-size: 90%;
 	text-align: center;
 }
