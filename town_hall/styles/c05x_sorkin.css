@@ -3,6 +3,7 @@ body {
 	background-color: yellow;
 	font-family: Arial, Helvetica, sans-serif;
 	width: 650px;
+	text-align: left;
 }
 h1 { 
 	font-size: 150%;
