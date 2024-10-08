@@ -9,7 +9,7 @@ body {
 	width: 650px;
 	text-align: left;
 	padding: 5%
-	border: double;
+	border: double blue;
 }
 h1 { 
 	font-size: 150%;
