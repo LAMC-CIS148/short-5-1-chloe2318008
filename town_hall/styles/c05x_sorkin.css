@@ -8,8 +8,8 @@ body {
 	width: 650px;
 	text-align: left;
 	margin: 0 5% 5% 5%;
-	border: 2px double steelblue;
-	padding: 5%;
+	border: 5px steelblue;
+	padding: 2%;
 }
 h1 { 
 	font-size: 150%;
