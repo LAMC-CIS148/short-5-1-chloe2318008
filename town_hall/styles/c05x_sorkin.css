@@ -3,11 +3,12 @@ html {
 	background-color: yellow;
 }
 body {
-	border: 2px steelblue;
 	background-color: white;
 	font-family: Arial, Helvetica, sans-serif;
 	width: 650px;
 	text-align: left;
+	margin: 0 5% 5% 5%;
+	border: 2px double steelblue;
 	padding: 5%;
 }
 h1 { 
