@@ -4,6 +4,7 @@ html {
 }
 body {
 	border: steelblue;
+	border-radius: 25px;
 	background-color: white;
 	font-family: Arial, Helvetica, sans-serif;
 	width: 650px;
