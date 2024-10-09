@@ -7,20 +7,15 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	width: 650px;
 	text-align: left;
-	padding: 5%
-	margin: 0 auto;
 }
 h1 { 
 	font-size: 150%;
-	margin: 5%;
 }
 h2 {
 	font-size: 125%;
-	margin: 5%;
 }
 h3 {
 	font-size: 115%;
-	margin: 5%;
 }
 /* the styles for the header */
 header h1 { 
@@ -29,8 +24,6 @@ header h1 {
 /* the styles for the main */
 main img {
 	float: left;
-	border: 0;
-	margin: 5%;
 }
 cite {
 	float: right;
