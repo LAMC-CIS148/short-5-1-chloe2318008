@@ -3,7 +3,8 @@ html {
 	background-color: yellow;
 }
 body {
-	border: double-line steelblue;
+	border: 1px steelblue;
+	border: 3px steelblue;
 	background-color: white;
 	font-family: Arial, Helvetica, sans-serif;
 	width: 650px;
