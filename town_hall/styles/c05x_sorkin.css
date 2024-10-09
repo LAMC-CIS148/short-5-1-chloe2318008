@@ -27,6 +27,7 @@ header h1 {
 /* the styles for the main */
 main img {
 	float: left;
+	padding: 0 1% 1% 0;
 }
 cite {
 	float: right;
