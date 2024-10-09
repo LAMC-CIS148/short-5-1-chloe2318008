@@ -29,6 +29,7 @@ main img {
 cite {
 	float: right;
 	color: steelblue;
+	margin-bottom: 5%;
 }
 /* the styles for the footer */
 footer { 
