@@ -26,12 +26,15 @@ h3 {
 	font-size: 115%;
 }
 /* the styles for the main */
+main {
+	padding: 1.5em;
+}
 main img {
 	float: left;
 	padding: 0 3% 0 0;
 }
 blockquote { 
-	padding: 0 0 1% 0;
+	padding-bottom: .25em;
 }
 cite {
 	padding: 1% 0 1% 0;
