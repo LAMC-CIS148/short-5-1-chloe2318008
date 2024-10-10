@@ -18,12 +18,18 @@ body {
 header h1 { 
 	font-size: 150%;
 	color: blue;
+	margin: 0;
+	padding-bottom: .5em;
 }
 h2 {
 	font-size: 125%;
+	padding-top: .5em;
+	padding-bottom: .25em;
 }
 h3 {
 	font-size: 115%;
+	padding-top: 0;
+	padding-bottom: .25em;
 }
 /* the styles for the main */
 main {
@@ -31,22 +37,25 @@ main {
 }
 main img {
 	float: left;
-	padding: 0 3% 0 0;
+	margin: .5em 1em .5em 0;
 }
 blockquote { 
 	padding-bottom: .25em;
 }
 cite {
-	padding: 1% 0 1% 0;
-	float: right;
+	font-style: normal;
 	color: blue;
 }
 /* the styles for the footer */
 footer { 
-	border-top: 4px solid blue;
+	border-top: 3px solid blue;
+	margin: 0 1em;
+	padding: .5em;
 }
 footer p {
 	font-size: 90%;
 	text-align: center;
 	font: bold;
+	padding-top: .5em;
+	padding-bottom: .25em;
 }
