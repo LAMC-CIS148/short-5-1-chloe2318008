@@ -45,6 +45,7 @@ blockquote {
 cite {
 	font-style: normal;
 	color: blue;
+	float: right;
 }
 /* the styles for the footer */
 footer { 
